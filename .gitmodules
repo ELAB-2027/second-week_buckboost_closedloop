@@ -1,3 +1,7 @@
 [submodule "jlh"]
 	path = jlh
 	url = https://github.com/Gold-RsC/buck-boost20261003.git
+[submodule "hrx"]
+	path = hrx
+	url = https://github.com/xiaoyaofengjianshi/Diansai2027.git
+	branch = week2
